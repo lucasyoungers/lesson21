@@ -23,14 +23,14 @@ export default {
 
 <style>
 .card {
-  box-shadow: 4px 4px 12px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
   max-width: 500px;
   margin: 10px;
 }
 
 .card:hover {
-  box-shadow: 8px 8px 12px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 .container {
